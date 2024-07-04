@@ -108,7 +108,7 @@ export function NavbarSimple() {
             <div className=" flex items-center justify-center  bg-[#383839] p-2  rounded-lg h-14 w-14 md:h-28 md:w-28 lg:w-full lg:h-full">
               <img
                 src="https://i.ibb.co/VSg1Y15/IMG-20240624-005231.jpg"
-                alt="logo"
+                alt="Nafiul Hasan image"
                 className=" h-full w-full bg-cover bg-center rounded-lg"
               />
             </div>

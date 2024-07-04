@@ -28,6 +28,7 @@ const Root = () => {
         </>
       );
     return (
+      <div>
         <div className=' py-5  p-3 md:p-6 lg:p-14 flex flex-col lg:flex-row gap-5 lg:gap-10 lg:px-[5%]'>
            <div className=' lg:w-[350px] lg:p-5'>
             <Sidebar/>
@@ -42,11 +43,7 @@ const Root = () => {
                 
                 <div className=' lg:px-10 lg:py-5 p-3 md:p-5 md:mb-14'>
                <Outlet />
-               <div className=' hidden lg:block'>
-                    {/* footer */}
-    
-                  <Footer/>
-               </div>
+              
                </div>
 
                 <div className=' lg:hidden rounded-t-3xl fixed bottom-0 left-0 z-50 w-full h-14 space-x-3 md:space-x-10 bg-[#282829] text-center p-3' >
@@ -57,6 +54,14 @@ const Root = () => {
             
            </div>
            
+        </div>
+
+        <div className='my-20'>
+                    {/* footer */}
+    
+                  <Footer/>
+               </div>
+
         </div>
     );
 };

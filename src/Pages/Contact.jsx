@@ -57,14 +57,7 @@ const Contact = () => {
               </section>
 
           </div>
-          <h1 className='text-2xl lg:text-3xl font-semibold text-white my-5'>My Resume</h1>
-          <div className=' rounded-lg border-[#FEC462] w-10 md:w-20 lg:w-24  border-2 my-3 lg:my-6'></div>
-          <div className=' my-5'>
-
-              <img className='w-full h-full rounded-xl'
-                  src="https://i.ibb.co/HGsyWCs/Full-Stack-developer-Nafiul-Hasan-page-0001.jpg" alt="Resume" />
-
-          </div>
+         
       
 
       </div>
