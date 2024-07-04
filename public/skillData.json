@@ -1,0 +1,224 @@
+[
+    {
+      "id": 1,
+      "name": "React.js",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 2,
+      "name": "Tailwind CSS",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 3,
+      "name": "Bootstrap",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 4,
+      "name": "Material-UI",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 5,
+      "name": "HTML5",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 6,
+      "name": "CSS3",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 7,
+      "name": "JavaScript (ES6+)",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 8,
+      "name": "Node.js",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 9,
+      "name": "Express.js",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 10,
+      "name": "RESTful APIs",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 11,
+      "name": "JWT",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 12,
+      "name": "OAuth",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 13,
+      "name": "Middleware",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 14,
+      "name": "Cors",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 15,
+      "name": "Axios",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 16,
+      "name": "MongoDB",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 17,
+      "name": "MySQL",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 18,
+      "name": "Oracle DB",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 19,
+      "name": "Aggregation",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 20,
+      "name": "Indexing and Performance Optimization",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 21,
+      "name": "Data Modeling",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 22,
+      "name": "Git",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 23,
+      "name": "GitHub",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 24,
+      "name": "Vercel",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 25,
+      "name": "Firebase",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 26,
+      "name": "Stripe",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 27,
+      "name": "Payment Gateway",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 28,
+      "name": "VS Code",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 29,
+      "name": "Problem-Solving",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 30,
+      "name": "Team Collaboration",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 31,
+      "name": "Effective Communication",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 32,
+      "name": "Adaptability",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 33,
+      "name": "Continuous Learning",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 34,
+      "name": "Attention to Detail",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 35,
+      "name": "Critical Thinking",
+      "image": "link_to_image",
+      "level": "Advanced"
+    },
+    {
+      "id": 36,
+      "name": "Agile Methodologies",
+      "image": "link_to_image",
+      "level": "Intermediate"
+    },
+    {
+      "id": 37,
+      "name": "Self-Motivation",
+      "image": "link_to_image",
+      "level": "Advanced"
+    }
+  ]
