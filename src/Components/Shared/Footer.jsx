@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
     return (
-        <footer className="bg-[#282829] rounded-xl shadow-2xl shadow-white/10 border border-white/20 lg:my-20">
+        <footer className="bg-[#282829] rounded-xl shadow-2xl shadow-white/40 border border-white/20 lg:my-20">
         <div className="container flex flex-col items-center justify-between p-6 mx-auto space-y-4 sm:space-y-0 sm:flex-row">
           <Link>
             <img className="w-auto h-14 rounded-xl" src="https://i.ibb.co/1nC2Tb3/Nafiul-Hasan-Logo.jpg" alt="" />

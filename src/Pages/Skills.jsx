@@ -25,7 +25,7 @@ const Skills = () => {
               {/* skill card start */}
               <div className='  '>
                   <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto   ">
-                      <div  className="w-full h-48 hover:scale-110   bg-gray-300 bg-center bg-cover rounded-lg  shadow-2xl shadow-white/40 border border-white/90 " style={{
+                      <div  className="w-full h-48 hover:scale-110 hover:animate-spin    bg-gray-300 bg-center bg-cover rounded-lg  shadow-2xl shadow-white/40 border border-white/90 " style={{
              backgroundImage:
                       "url(https://miro.medium.com/v2/resize:fit:1200/1*jDIj2SKAE-Bp32owLoHDjw.png)"
             }}></div>
@@ -46,7 +46,7 @@ const Skills = () => {
               {/* Tailwind CSS skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmGcLxZTf6jAMy8rSmEePU6xuLfXZzDNFXkcCvn250CkDGTtz_vI4eI72ORTzTgCwnejg&usqp=CAU)"
         }}></div>
 
@@ -64,7 +64,7 @@ const Skills = () => {
 {/* Bootstrap skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQvo7DiCYq0KDfGNiQFlNiaozrX5Ze03TbQ&s)"
         }}></div>
 
@@ -82,7 +82,7 @@ const Skills = () => {
 {/* Material-UI skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://miro.medium.com/v2/resize:fit:1200/1*fEyeESs-HxVR7Zlr-fdlvw.png)"
         }}></div>
 
@@ -100,7 +100,7 @@ const Skills = () => {
 {/* HTML5 skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2CbpLmM3tRJzlp_xAaiOOJRU1ICCAX8Ns1Q&s)"
         }}></div>
 
@@ -118,7 +118,7 @@ const Skills = () => {
 {/* CSS3 skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg)"
         }}></div>
 
@@ -136,7 +136,7 @@ const Skills = () => {
 {/* JavaScript skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-86vRuxOArrVRmMgerLZ5pi8yCs6U7zsQ&s)"
         }}></div>
 
@@ -154,7 +154,7 @@ const Skills = () => {
 {/* Responsive Design skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://www.searchenginejournal.com/wp-content/uploads/2021/10/responsive-web-design-1-61f01c4b64c5f-sej.png)"
         }}></div>
 
@@ -187,7 +187,7 @@ const Skills = () => {
             {/* Node.js skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTogwU6U5z0Zf2lUxTE72JAKxVd52klwPe-Q&s)"
         }}></div>
 
@@ -205,7 +205,7 @@ const Skills = () => {
 {/* Express.js skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=sTfwUvcIfW7Fuby7hMluDfuRJK3HfYMMWc2SyZR7-GA)"
         }}></div>
 
@@ -223,7 +223,7 @@ const Skills = () => {
 {/* RESTful APIs skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://restfulapi.net/wp-content/uploads/what-is-rest-api.png)"
         }}></div>
 
@@ -241,7 +241,7 @@ const Skills = () => {
 {/* JWT skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWh6M5DDtiB2lfeXubYroYn3zLdt72Nd705g&s)"
         }}></div>
 
@@ -259,7 +259,7 @@ const Skills = () => {
 {/* OAuth skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://www.cisco.com/c/dam/assets/swa/img/anchor-info/what-is-user-authentication-628x353.png)"
         }}></div>
 
@@ -277,7 +277,7 @@ const Skills = () => {
 {/* Middleware skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm5-r2zIQb615YyKftghCkzfbz5aMh74aDaQ&s)"
         }}></div>
 
@@ -295,7 +295,7 @@ const Skills = () => {
 {/* CORS skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBA_gkufVCImO9Hw-aPk0fybz2o7f0WZ5zIw&s)"
         }}></div>
 
@@ -313,7 +313,7 @@ const Skills = () => {
 {/* Axios skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://media.licdn.com/dms/image/D4D12AQHOO3M_hDU_Zg/article-cover_image-shrink_720_1280/0/1680896113350?e=2147483647&v=beta&t=cg6_768-cey38mAqmbUWuGDhrb7XOuTTXTXz2Mm8QB4)"
         }}></div>
 
@@ -348,7 +348,7 @@ const Skills = () => {
             {/* MongoDB skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://www.openlogic.com/sites/default/files/image/2021-06/image-blog-openlogic-what-is-mongodb.png)"
         }}></div>
 
@@ -366,7 +366,7 @@ const Skills = () => {
 {/* MySQL skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://media.licdn.com/dms/image/D4E12AQFZk_BOEXMuxw/article-cover_image-shrink_720_1280/0/1711355118921?e=2147483647&v=beta&t=jzVwHgAOrrn0HsRH1b8IMkyc_Y6Te0cg38JYZNTF-dw)"
         }}></div>
 
@@ -384,7 +384,7 @@ const Skills = () => {
 {/* Oracle DB skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://media.licdn.com/dms/image/D4E12AQEVNA7Qh_r24A/article-cover_image-shrink_720_1280/0/1711009445506?e=2147483647&v=beta&t=YisAZwCYZ9M5Kc3ZB6GuCDyC0Dz2WaDR-VM0_9_yCAk)"
         }}></div>
 
@@ -402,7 +402,7 @@ const Skills = () => {
 {/* Aggregation skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://cyberhoot.com/wp-content/uploads/2020/07/59e4c47a969a8419d70caede46ec5b7c88b3bdf5-1024x576.jpg)"
         }}></div>
 
@@ -420,7 +420,7 @@ const Skills = () => {
 {/* Indexing and Performance Optimization skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtaKKSMAUOALY4pHFw9Hw_yg1Pu-43WbTSzw&s)"
         }}></div>
 
@@ -438,7 +438,7 @@ const Skills = () => {
 {/* Data Modeling skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEvIMlKhrPjTEeKXsIDcy_XEL-ei8JsOLUQ&s)"
         }}></div>
 
@@ -468,7 +468,7 @@ const Skills = () => {
              {/* Problem-Solving skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://media.licdn.com/dms/image/D4D12AQHo7N748YPP5g/article-cover_image-shrink_600_2000/0/1709915213456?e=2147483647&v=beta&t=a_mq0XenyCIhpoGufVJZD--7MThYidAaChIza9uGim8)"
         }}></div>
 
@@ -486,7 +486,7 @@ const Skills = () => {
 {/* Team Collaboration skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://blogimage.vantagecircle.com/content/images/2023/01/10-Smart-Ways-to-Better-Team-Collaboration-1.png)"
         }}></div>
 
@@ -504,7 +504,7 @@ const Skills = () => {
 {/* Effective Communication skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://elearningindustry.com/wp-content/uploads/2023/10/Navigating-Success-Through-Effective-Communication-Skills.jpg)"
         }}></div>
 
@@ -522,7 +522,7 @@ const Skills = () => {
 {/* Adaptability skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://whatfix.com/blog/wp-content/uploads/2021/10/Adaptablity-in-workplace.png)"
         }}></div>
 
@@ -540,7 +540,7 @@ const Skills = () => {
 {/* Continuous Learning skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://cdn.educba.com/academy/wp-content/uploads/2023/11/Continuous-Learning.jpg)"
         }}></div>
 
@@ -558,7 +558,7 @@ const Skills = () => {
 {/* Attention to Detail skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKkrjazXnc3Yn3fZp5siPgfWuPWwk2rLBIg&s)"
         }}></div>
 
@@ -576,7 +576,7 @@ const Skills = () => {
 {/* Critical Thinking skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://tscfm.org/wp-content/uploads/2021/04/why-is-critical-thinking-important.jpg)"
         }}></div>
 
@@ -594,7 +594,7 @@ const Skills = () => {
 {/* Agile Methodologies skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://assets.asana.biz/transform/f3519623-44e4-4506-8e1f-38cb74819c58/inline-agile-agile-methodology-1-2x)"
         }}></div>
 
@@ -612,7 +612,7 @@ const Skills = () => {
 {/* Self-Motivation skill card start */}
 <div className=''>
     <div className="flex flex-col items-center justify-center w-full max-w-sm mx-auto">
-        <div className="w-full h-48 hover:scale-110 bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
+        <div className="w-full h-48 hover:scale-110 hover:animate-spin bg-gray-300 bg-center bg-cover rounded-lg shadow-2xl shadow-white/40 border border-white/90" style={{
             backgroundImage: "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShrfjJb-9H8jyEGLvGKzKYxceVc9gCFWVOjg&s)"
         }}></div>
 

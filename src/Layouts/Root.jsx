@@ -56,7 +56,7 @@ const Root = () => {
            
         </div>
 
-        <div className='my-20'>
+        <div className='my-20 mx-5'>
                     {/* footer */}
     
                   <Footer/>
